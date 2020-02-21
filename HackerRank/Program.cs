@@ -10,7 +10,12 @@ namespace HackerRank
     {
         static void Main(string[] args)
         {
-            Promedio.mostrarResultado();
+            // Primer problema resuelto 
+            // Sumatoria.mostrarResultado();
+
+            // Segundo problmea resuelto
+            Triplet.obtenerValores();
+
             Console.ReadKey();
         }
     }

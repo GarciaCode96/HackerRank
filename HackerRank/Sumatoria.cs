@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace HackerRank
 {
-    class Promedio
+    class Sumatoria
     {
         /*
          *  Se debe hacer el primer ejercicio de hacker rank que consiste en obtener una longitud

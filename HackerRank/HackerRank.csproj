@@ -44,8 +44,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Program.cs" />
-    <Compile Include="Promedio.cs" />
+    <Compile Include="Sumatoria.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Triplet.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
