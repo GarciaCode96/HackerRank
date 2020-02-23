@@ -10,11 +10,8 @@ namespace HackerRank
     {
         static void Main(string[] args)
         {
-            // Primer problema resuelto 
-            // Sumatoria.mostrarResultado();
-
-            // Segundo problmea resuelto
-            Triplet.obtenerValores();
+            long[] valores = { 1000000001, 1000000002, 1000000003, 1000000004, 1000000005 };
+            Zigma.sumatoriaValoresGrandes(valores);
 
             Console.ReadKey();
         }
