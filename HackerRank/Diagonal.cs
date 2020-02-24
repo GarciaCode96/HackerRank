@@ -31,8 +31,7 @@ namespace HackerRank
 
         private static int obtenerDiferenciaDiagonal(List<List<int>> matrizEnteros)
         {
-            int sumatoriaDiagonal = 0, sumatoriaDiagonalInversa = 0;
-            int indiceDecrementado = matrizEnteros.Count - 1;
+            int sumatoriaDiagonal = 0, sumatoriaDiagonalInversa = 0, indiceDecrementado = matrizEnteros.Count - 1;
 
             for(int indice = 0; indice <= matrizEnteros.Count() - 1; indice++)
             {
