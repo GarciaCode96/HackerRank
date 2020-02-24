@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Diagonal.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Sumatoria.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
